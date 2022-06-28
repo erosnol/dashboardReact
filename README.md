@@ -10,7 +10,7 @@ You visualize a dashboard with components for reviews, average rating, sentiment
 
 ## Screenshot
 
-![picture](/screenshot/dashboard.png)
+![picture](/img/dashboard.png)
 
 
 
