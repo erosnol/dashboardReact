@@ -26,11 +26,13 @@ body {
   grid-template:
     'Header Header Header Header'
     'Menu Reviews AvgRating SentAnalysis'
-    'Menu WebVisit WebVisit WebVisit';
+    'Menu WebVisit WebVisit WebVisit'
+    'footer footer footer footer'
+    ;
 
 
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 50px 1fr 1fr;
+  grid-template-rows: 50px 1fr 1fr 50px;
 
 }
 
